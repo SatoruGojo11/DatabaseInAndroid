@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DatabaseInAndroid</string>
+    <string name="Emailid">Email id</string>
+    <string name="Password">Password</string>
+</resources>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.databaseinandroid.app-mergeDebugResources-30:/layout/activity_shared_preference_prac.xml",
+        "source": "com.example.databaseinandroid.app-main-33:/layout/activity_shared_preference_prac.xml"
+    },
+    {
+        "merged": "com.example.databaseinandroid.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.databaseinandroid.app-main-33:/layout/activity_main.xml"
+    }
+]
